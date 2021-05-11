@@ -5,7 +5,7 @@ Here is a gif:
 
 ![gif](/Images/ProjectGif.gif)
 
-From this project I have learned how to:
+From this project I learned how to:
 
 - Create shader graphs and use them.
 - Implement Gerstner Wave function.
